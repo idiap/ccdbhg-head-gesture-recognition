@@ -1,0 +1,15 @@
+version = 1
+SPDX-PackageName = "Prongen"
+SPDX-PackageSupplier = "<>"
+
+[[annotations]]
+path = [".gitignore", ".pre-commit-config.yaml", "README.md", "THIRDPARTY.md", "env.sh", "env.yml"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "Copyright 2023 Idiap Research Institute <contact@idiap.ch>"
+SPDX-License-Identifier = "LicenseRef-ProjectNameID"
+
+[[annotations]]
+path = "notebooks/**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "Copyright 2023 Idiap Research Institute <contact@idiap.ch>"
+SPDX-License-Identifier = "LicenseRef-ProjectNameID"

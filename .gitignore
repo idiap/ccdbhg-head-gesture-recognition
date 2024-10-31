@@ -1,0 +1,7 @@
+
+# cache files 
+*.pyc
+__pycache__
+
+# exclude static directory
+static

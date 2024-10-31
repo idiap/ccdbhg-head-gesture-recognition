@@ -1,0 +1,87 @@
+alpha: 0.0
+annotate: false
+batch_norm: false
+batch_size: 128
+bias: false
+bidirectional: true
+bootstrap: false
+class_to_consider:
+- Nod
+- Shake
+- Tilt
+- Turn
+- Up_down
+classifier_name: cnn
+dataset_name: ccdb_xgaze
+device: cuda
+dropout:
+- 0.1
+- 0.1
+- 0.0
+exp_name: rel_lm_hp
+feat_dim:
+- 128
+- 128
+- 128
+focal_loss_gamma: 1.0
+g_pool: avg_pool
+gamma: None
+gatcat: none
+gaze_type: gaze_camera
+in_ch: 18
+input_domain:
+- head_pose
+- landmarks
+is_cross_val: 0
+kernel_size:
+- 8
+- 5
+- 3
+loss_name: focal_loss
+loss_weight:
+- none
+lr: 0.0005
+max_epochs: 30
+max_len: 31
+mean_method: none
+misc: '-'
+mixup: none
+model_name: cnn
+n_epochs: 30
+norm_channel_wise: 1
+normalize: true
+normalize_type: head_size
+num_classes: 6
+num_max_samples: null
+num_of_subject_per_fold: 2
+num_workers: 4
+only_obvious: true
+only_obvious_testing: true
+optimizer_name: adam
+out_path: None
+path_to_pretrained: None
+proj_name_wb: HGR
+relative_invariant: 1
+relative_method: with_head_center
+sampler: none
+samples_file_path: None
+save_pred: 1
+scheduler_name: cosine
+seed: 33
+sota: none
+std_method: per_data
+step_size: None
+stride:
+- 1
+- 1
+- 1
+time_serie_augmentation: 0
+transform_abs_rel: rel
+transform_fourier: false
+transform_relative: 5
+val_set: false
+verbose: true
+video_file_path: None
+wandb: 1
+weight_decay: 0.0001
+zeta: 0.2
