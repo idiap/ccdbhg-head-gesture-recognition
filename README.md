@@ -26,8 +26,8 @@ several head axis at the same time.
 ### CCDbHG Gestures Examples
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|**Nod** <img width="400" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/idiap/ccdbhg-head-gesture-recognition/blob/main/images/CCDb_nods.gif">| **Shake** <img width="400" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/idiap/ccdbhg-head-gesture-recognition/blob/main/images/CCDb_shakes.gif">| **Tilt** <img width="400" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/idiap/ccdbhg-head-gesture-recognition/blob/main/images/CCDb_tilt.gif">| 
-| **Turn** <img width="400" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/idiap/ccdbhg-head-gesture-recognition/blob/main/images/CCDb_turn.gif"> | **Up Down** <img width="400" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/idiap/ccdbhg-head-gesture-recognition/blob/main/images/CCDb_up_down.gif">| |
+|**Nod** <img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/idiap/ccdbhg-head-gesture-recognition/blob/main/images/CCDb_nods.gif">| **Shake** <img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/idiap/ccdbhg-head-gesture-recognition/blob/main/images/CCDb_shakes.gif">| **Tilt** <img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/idiap/ccdbhg-head-gesture-recognition/blob/main/images/CCDb_tilt.gif">| 
+| **Turn** <img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/idiap/ccdbhg-head-gesture-recognition/blob/main/images/CCDb_turn.gif"> | **Up Down** <img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/idiap/ccdbhg-head-gesture-recognition/blob/main/images/CCDb_up_down.gif">| |
 
 
 ## Project Structure
