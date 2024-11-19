@@ -1,4 +1,4 @@
-# CCDbHG Head Gesture Dataset
+# CCDbHG Head Gesture Recognition Demo+Dataset
 
 Real-time demo and evaluation code of our Face and Gesture 2024 paper: 
 "CCDb-HG: Novel Annotations and Gaze-Aware Representations for
