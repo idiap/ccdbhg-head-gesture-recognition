@@ -4,7 +4,7 @@ Real-time demo and evaluation code of our Face and Gesture 2024 paper:
 "CCDb-HG: Novel Annotations and Gaze-Aware Representations for
 Head Gesture Recognition" [Link](https://publications.idiap.ch/attachments/papers/2024/Vuillecard_FG_2024.pdf)
 
-You can download the CCDb dataset from [here](https://ccdb.cs.cf.ac.uk/) and our annotation from [here](https://zenodo.org/records/13927536).
+You can download the CCDb dataset from [HuggingFace](https://huggingface.co/datasets/CardiffVisualComputing/CCDb) and our annotation from [Zenodo](https://zenodo.org/records/13927536).
 
 ## CCDbHG Data Annotation:
 
